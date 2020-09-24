@@ -1,16 +1,16 @@
 {
-  "name": "jquery-qrcode",
+  "name": "panorama-qrcode",
   "version": "1.0.0",
-  "homepage": "http://www.d-project.com/",
   "authors": [
-    "jeromeetienne"
+    "jeromeetienne",
+    "XavierCHN"
   ],
-  "description": "It allow you to easily add qrcode to your webpages. It is standalone, less than 4k after minify+gzip, no image download",
-  "main": "jquery.qrcode.min.js",
   "keywords": [
     "QR",
     "jQuery",
-    "standalone"
+    "standalone",
+    "Panorama",
+    "DOTA2"
   ],
   "license": "MIT",
   "ignore": [
@@ -21,6 +21,5 @@
     "tests"
   ],
   "dependencies": {
-    "jquery": "~1.9"
   }
 }
