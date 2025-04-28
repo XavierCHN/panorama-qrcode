@@ -1,4 +1,6 @@
-# Panorama QRCode
+# Panorama QRCode(Archived)
+
+本项目已归档，请查阅 X-template中使用react制作的[最新 react-panorama-qrcode 范例](https://github.com/XavierCHN/x-template/tree/master/content/panorama/src/utils/react-panorama-qrcode)
 
 一个用来在DOTA2的Panorama里面生成任意数据的二维码小代码
 基于本项目的fork来源
